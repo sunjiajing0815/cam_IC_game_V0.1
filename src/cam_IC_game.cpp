@@ -1,5 +1,5 @@
 //
-// Authors:   Jiajing Sun
+// Author:   Jiajing Sun
 // Project: image alignment on Raspberry Pi
 
 // cam_IC_gl.cpp
