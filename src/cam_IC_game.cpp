@@ -1492,7 +1492,7 @@ int main(int argc, const char **argv)
 	esCreateWindow ( &esContext, "Simple Texture 2D", width*2, height*2, ES_WINDOW_RGB);
 	
 	//Draw( &esContext);
-	printf("error here\n");
+	//printf("error here\n");
     if ( !Init ( &esContext ) )
        return 0;
     
